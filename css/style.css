@@ -42,7 +42,7 @@ a, button.submit {
   transition: all .1s ease-in; }
 
 a:hover, a:active {
-  color: #444; }
+  color: #ff0000; }
 
 a:focus {
   outline: auto; }
